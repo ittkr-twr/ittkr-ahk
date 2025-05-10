@@ -29,7 +29,7 @@
   - `i` → Home  
   - `o` → End  
   - `u` → 行全選択（Home → Shift+End）
-  - `;` → 今日の日付（yyyy/MM/dd）を入力
+  - `;` → BackSpace
 
 - **MButton（マウス中ボタン）拡張**  
   中ボタンクリック → 通常動作  
