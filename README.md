@@ -1,4 +1,4 @@
-# My AutoHotkey Script
+# Ittkr-AHK
 
 このリポジトリでは、AutoHotkey v2で作成した簡単なスクリプトを公開しています。  
 おもに研究室や実験室、友人のPCを私が便利に使うためにGitHubにアップしています。  
