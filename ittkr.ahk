@@ -72,8 +72,3 @@ ShowVolumeOSD() {
 		SetTimer () => ToolTip(), -1000
 	}
 }
-
-; Win + v でVivaldi起動
-#v:: {
-	Run "C:\Users\itoht\AppData\Local\Vivaldi\Application\vivaldi.exe"
-}
